@@ -1,5 +1,7 @@
 # etcd
 
+[![Join the chat at https://gitter.im/jasszhao/etcd](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jasszhao/etcd?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/coreos/etcd.png?branch=master)](https://travis-ci.org/coreos/etcd)
 [![Docker Repository on Quay.io](https://quay.io/repository/coreos/etcd-git/status "Docker Repository on Quay.io")](https://quay.io/repository/coreos/etcd-git)
 
